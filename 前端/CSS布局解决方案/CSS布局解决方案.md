@@ -702,14 +702,14 @@
 
 ### 等分布局
 
-![等分布局](assets\3243512925-5aa1c4e073b19_articlex.png)
+![等分布局](assets/3243512925-5aa1c4e073b19_articlex.png)
 
 ```javascript
 公式转化:
 l = w * n + g * (n-1) -> l = w * n + g * n - g -> l + g = （w + g） * n
 ```
 
-![等分布局2](assets\962188203-5aa1c473ab9d1_articlex.jpg)
+![等分布局2](assets/962188203-5aa1c473ab9d1_articlex.jpg)
 
 因此，我们需要解决两个问题：
 
@@ -985,7 +985,7 @@ p{
 
 ### 方案一、top区域及bottom区域定高
 
-![全屏布局](assets\3697930859-5aa1a318d836c_articlex.png)
+![全屏布局](assets/3697930859-5aa1a318d836c_articlex.png)
 
 #### 1. 使用`position`
 
@@ -1126,7 +1126,7 @@ body{
 
 ### 方案二、top区域及bottom区域内容自适应
 
-![自适应全屏布局](assets\59502518-5aa1a32eac83b_articlex.png)
+![自适应全屏布局](assets//59502518-5aa1a32eac83b_articlex.png)
 
 #### 1. 使用`flex`
 
