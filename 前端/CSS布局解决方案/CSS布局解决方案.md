@@ -1126,7 +1126,7 @@ body{
 
 ### 方案二、top区域及bottom区域内容自适应
 
-![自适应全屏布局](assets//59502518-5aa1a32eac83b_articlex.png)
+![自适应全屏布局](assets/59502518-5aa1a32eac83b_articlex.png)
 
 #### 1. 使用`flex`
 
