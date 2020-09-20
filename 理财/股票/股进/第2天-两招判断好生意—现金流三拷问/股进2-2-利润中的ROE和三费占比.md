@@ -1,16 +1,14 @@
-# 股进2-x-标
+# 股进2-2-标
 
 ## PPT
 
-![课程ppt](assets/2-x-1.jpg)
+![课程ppt](assets/2-2-1.jpg)
 
-![课程ppt](assets/2-x-2.jpg)
+![课程ppt](assets/2-2-2.jpg)
 
-![课程ppt](assets/2-x-3.jpg)
+![课程ppt](assets/2-2-3.jpg)
 
-![课程ppt](assets/2-x-4.jpg)
-
-![课程ppt](assets/2-x-5.jpg)
+![课程ppt](assets/2-2-4.jpg)
 
 ## 课程内容
 

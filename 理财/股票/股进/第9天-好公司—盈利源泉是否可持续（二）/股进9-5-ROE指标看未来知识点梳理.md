@@ -1,16 +1,10 @@
-# 股进9x-标
+# 股进9-5-标
 
 ## PPT
 
-![课程ppt](assets/9x-1.jpg)
+![课程ppt](assets/9-5-1.jpg)
 
-![课程ppt](assets/9x-2.jpg)
-
-![课程ppt](assets/9x-3.jpg)
-
-![课程ppt](assets/9x-4.jpg)
-
-![课程ppt](assets/9x-5.jpg)
+![课程ppt](assets/9-5-2.jpg)
 
 ## 课程内容
 
